@@ -10,7 +10,7 @@
 
 /* ONE-SHOT-MODE	- temperature register values are updated only in the user specified time
  * NORMAL-MODE		- every 80ms temperature register values are updated automatically by the new value
- * (for ONE_SHOT_MODE commented macro)
+ * (for NORMAL_MODE commented macro)
  */
 #define ONE_SHOT_MODE
 
