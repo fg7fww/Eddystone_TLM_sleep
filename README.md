@@ -9,3 +9,5 @@ Used components:
 - Temperature sensor NCT375 with I2C slave interface
 
 NCT375 on/off One shot mode switching use macro ONE_SHOT_MODE in nct375.h
+
+<img src="screenshots/android.png"/>
