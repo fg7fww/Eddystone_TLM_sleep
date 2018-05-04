@@ -18,20 +18,20 @@ Temperature sampling and advertise periods configuration:
 
 <img src="screenshots/advertisment_period_setting_2000.PNG"/>
 
-<img src="screenshots/osc_advp_2000.PNG"/>
+<img src="screenshots/osc_advp_2000.jpg"/>
 
 
 - Configuration parameter CFG_ADV_INTERVAL_MS=4000 [ms]
 
 <img src="screenshots/advertisment_period_setting_4000.PNG"/>
 
-<img src="screenshots/osc_advp_4000.PNG"/>
+<img src="screenshots/osc_advp_4000.jpg"/>
 
 
 - Configuration parameter CFG_ADV_INTERVAL_MS=8000 [ms]
 
 <img src="screenshots/advertisment_period_setting_8000.PNG"/>
 
-<img src="screenshots/osc_advp_8000.PNG"/>
+<img src="screenshots/osc_advp_8000.jpg"/>
 
 Sampling interval of android application Beaconfig.apk is shorter. For this configuration sampling has to be started nearly 1-2 second before advertise.
